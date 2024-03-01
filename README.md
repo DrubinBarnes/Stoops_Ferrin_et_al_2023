@@ -5,4 +5,4 @@ All analyses performed in the Jupyter notebook [combined_analysis.ipynb](combine
 
 To install necessary packages: `pip install -r requirements.txt`
 
-Raw data should be downloaded from [Drubin/Barnes lab Google Drive](link_here) into the `data/` directory in order to reproduce the analyses in the jupyter notebook.
+Raw data should be downloaded from [Drubin/Barnes lab Google Drive](https://drive.google.com/drive/folders/1UCJar2dmcZaWfkG-6Rig1A2SBQdbtUcE?usp=drive_link) into the `data/` directory in order to reproduce the analyses in the jupyter notebook.
